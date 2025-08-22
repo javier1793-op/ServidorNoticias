@@ -8,19 +8,19 @@ Este proyecto es un **servidor de noticias** construido con **Node.js y Express*
 
 El proyecto está organizado en carpetas para una mejor estructura y escalabilidad:  
 
-/src
-/models
-Contenido.js
-Texto.js
-Noticia.js
-Preferencia.js
-Usuario.js
-/services
-ServidorNoticias.js
-/routes
-usuarios.js
-noticias.js
-server.js
+- /src
+- /models
+- Contenido.js
+- Texto.js
+- Noticia.js
+- Preferencia.js
+- Usuario.js
+- /services
+- ServidorNoticias.js
+- /routes
+- usuarios.js
+- noticias.js
+- server.js
 
 ## Instalación
 
