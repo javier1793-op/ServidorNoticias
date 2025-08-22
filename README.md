@@ -27,8 +27,8 @@ El proyecto está organizado en carpetas para una mejor estructura y escalabilid
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/TU_USUARIO/TU_REPO.git
-cd TU_REPO
+git clone https://github.com/javier1793-op/ServidorNoticias.git
+cd EJERCICIO CLASE
 
 npm install
 
